@@ -1,6 +1,6 @@
 # 极狐网络 - 鼠鼠的Bot插件商店
 
-![极狐网络徽标](链接到你的徽标)
+![极狐网络徽标](https://cn-sy1.rains3.com/jihuxiaozhen/retouch_2024061021105083.png)
 
 [![Build Status](https://img.shields.io/github/actions/workflow/status/foxchuqiao/rats-bot-plugin-store/build.yml?branch=main&logo=github)](https://github.com/foxchuqiao/rats-bot-plugin-store/actions)
 [![License](https://img.shields.io/github/license/foxchuqiao/rats-bot-plugin-store?color=blue)](LICENSE.md)
